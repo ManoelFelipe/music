@@ -1,10 +1,8 @@
-# Descomplica
-
-Projetos de exemplo para as aulas da faculdade Descomplica
+# Projeto Sistema de Cadastro de Música
 
 ## Módulo de front-end - React
 
-Neste respositório você encontrará um projeto já pronto! Você só terá que fazer algumas adaptações caso você altere alguma informação como os endereços de API, se você seguiu todo o passo-a-passo para subir as APIs em Java SpringBoot e Python da forma como está neste repositório, então provavelmente você não precisará alterar nada!
+Neste respositório você encontrará o projeto. Você poderá fazer algumas adaptações caso você queira alterar algumas informações como os endereços de API.
 
 Teremos os seguintes passos:
 
