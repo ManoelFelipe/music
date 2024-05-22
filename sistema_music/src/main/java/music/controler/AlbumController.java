@@ -35,7 +35,8 @@ public class AlbumController {
 	
 	@PutMapping("/albuns/{id}")
 	public ResponseEntity<AlbumEntity> replaceAlbum(@PathVariable Long id, @RequestBody AlbumModel newAlbum) {
-		return ResponseEntity.status(HttpStatus.OK).body(albumService.updateAlbum(id, newAlbum));
+		return ResponseEntity.status(HttpStatus.OK)
+							 .body(albumService.updateAlbum(id, newAlbum));
 	}
 	
 	@GetMapping("/albuns")
