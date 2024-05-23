@@ -1,6 +1,6 @@
 # Projeto: Sistema de Cadastro de Músicas
 
-Sistema modificado da base do projeto da faculdade Descomplica.
+Sistema modificado da base do projeto da faculdade Descomplica.\
 Professor: Everton Juniti Ogura
 > https://gitlab.com/everton.juniti/descomplica
 
@@ -8,7 +8,7 @@ Professor: Everton Juniti Ogura
 ## Front-end:
 Na pasta reactsite.\
 Feito em JavaScript, como o framework React.\
-Usei a versão 20.13.1 LTS\
+Usei a versão 20.13.1 LTS
 > Site: https://nodejs.org/
 
 Depois de instalado, no cli do S.O. na pasta basta executar:
@@ -19,8 +19,8 @@ Depois de instalado, no cli do S.O. na pasta basta executar:
 Irá abrir no navegador no site: http://localhost:3000
 
 ## Back-end:
-Na pasta sitema_music
-Feito em Java, como o framework SpringBoot
+Na pasta sitema_music\
+Feito em Java, como o framework SpringBoot\
 Estou usando o Spring Tools 4 for Eclipse:
 > https://spring.io/tools
 
@@ -35,8 +35,8 @@ API do back-end rodando em: http://localhost:8080/api
 
 
 ## Banco de Dados:
-- Banco de Dados: PostGrespostgresql
-- Estou usando a versão: 16.03
+Banco de Dados: PostGrespostgresql\
+Estou usando a versão: 16.03\
 Criar no "pgAdmin 4" o nome do banco "sistema_music" <br />
 
 Usando o software Postman para testar os métodos Rest.\
