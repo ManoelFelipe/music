@@ -1,5 +1,10 @@
 # Projeto: Sistema de Cadastro de Músicas
 
+Sistema modificado da base do projeto da faculdade Descomplica.
+Professor: Everton Juniti Ogura
+> https://gitlab.com/everton.juniti/descomplica
+
+
 ## Front-end:
 Na pasta reactsite
 Feito em JavaScript, como o framework React.
