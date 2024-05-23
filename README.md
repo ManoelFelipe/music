@@ -6,9 +6,9 @@ Professor: Everton Juniti Ogura
 
 
 ## Front-end:
-Na pasta reactsite. &nbsp;
-Feito em JavaScript, como o framework React. &nbsp;
-Usei a versão 20.13.1 LTS &nbsp;
+Na pasta reactsite.\
+Feito em JavaScript, como o framework React.\
+Usei a versão 20.13.1 LTS\
 > Site: https://nodejs.org/
 
 Depois de instalado, no cli do S.O. na pasta basta executar:
@@ -39,6 +39,6 @@ API do back-end rodando em: http://localhost:8080/api
 - Estou usando a versão: 16.03
 Criar no "pgAdmin 4" o nome do banco "sistema_music" <br />
 
-Usando o software Postman para testar os métodos Rest.&nbsp;
+Usando o software Postman para testar os métodos Rest.\
 Pode importar o arquivo "Metodos.postman_collection.json" nesse software para ajudar.
 
