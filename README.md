@@ -6,9 +6,9 @@ Professor: Everton Juniti Ogura
 
 
 ## Front-end:
-Na pasta reactsite
-Feito em JavaScript, como o framework React.
-Usei a versão 20.13.1 LTS
+Na pasta reactsite. &nbsp;
+Feito em JavaScript, como o framework React. &nbsp;
+Usei a versão 20.13.1 LTS &nbsp;
 > Site: https://nodejs.org/
 
 Depois de instalado, no cli do S.O. na pasta basta executar:
@@ -23,21 +23,22 @@ Na pasta sitema_music
 Feito em Java, como o framework SpringBoot
 Estou usando o Spring Tools 4 for Eclipse:
 > https://spring.io/tools
-. Spring Versão: 3.2.5
-. Spring Boot DevTools
-. Sprig Data JPA
-. PostgreeSQL Driver
-. SpringWeb
-. Rest Repositories
+
+- Spring Versão: 3.2.5
+- Spring Boot DevTools
+- Sprig Data JPA
+- PostgreeSQL Driver
+- SpringWeb
+- Rest Repositories
 
 API do back-end rodando em: http://localhost:8080/api
 
 
 ## Banco de Dados:
-PostGrespostgresql
-Estou usando a versão: 16.03
-Criar no "pgAdmin 4" o nome do banco "sistema_music"
+- Banco de Dados: PostGrespostgresql
+- Estou usando a versão: 16.03
+Criar no "pgAdmin 4" o nome do banco "sistema_music" <br />
 
-Usando o software Postman para testar os métodos Rest.
+Usando o software Postman para testar os métodos Rest.&nbsp;
 Pode importar o arquivo "Metodos.postman_collection.json" nesse software para ajudar.
 
