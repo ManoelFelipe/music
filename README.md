@@ -4,6 +4,7 @@ Sistema modificado da base do projeto da faculdade Descomplica.\
 Professor: Everton Juniti Ogura
 > https://gitlab.com/everton.juniti/descomplica
 
+Objetovito é integrar o back-end e front-end com um banco de dados e fazer testes como o CRUD etc.
 
 ## Front-end:
 Na pasta reactsite.\
