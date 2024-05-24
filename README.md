@@ -9,7 +9,7 @@ Objetivo é integrar o back-end, front-end e um banco de dados.\
 
 ## Front-end:
 Na pasta reactsite.\
-Feito em JavaScript, como o framework React.\
+Feito em JavaScript, com o framework React.\
 Usei a versão 20.13.1 LTS
 > Site: https://nodejs.org/
 
@@ -22,7 +22,7 @@ Irá abrir no navegador no site: http://localhost:3000
 
 ## Back-end:
 Na pasta sitema_music\
-Feito em Java, como o framework SpringBoot\
+Feito em Java, com o framework SpringBoot\
 Estou usando o Spring Tools 4 for Eclipse:
 > https://spring.io/tools
 
